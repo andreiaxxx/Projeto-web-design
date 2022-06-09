@@ -1,5 +1,4 @@
-# https://andreiaxxx.github.io/Projeto-web-design/
-Projeto-web-design
+# Projeto-web-design
 Trabalho de grupo: Andreia Mourato, Afonso Rodrigues
 
 História do projeto
